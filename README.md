@@ -51,11 +51,11 @@ Version 3.2 (Customize alive message)
 👇To proccess👇
 </p>
 
-> 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@Kaveesha2006/BLACK-QAEEN?v=1)
+> 🙂➾ [Scan QR In Your Whatsapp From Here]
  
-> 🙂➾ [Fork This Repo By Clicking Here](https://heroku.com/deployhttps://github.com/ravindusathsara12/Dark-qvee)
+> 🙂➾ [Fork This Repo By Clicking Here]
  
-> 🙂➾ [Then Deploy The Bot From Here](https://github.com/prabhasha2006/Red-Dragon/fork)
+> 🙂➾ [Then Deploy The Bot From Here](
 
 
 

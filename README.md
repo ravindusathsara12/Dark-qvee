@@ -51,11 +51,11 @@ sappoted by ==malith
 👇To proccess👇
 </p>
 
-> 🙂➾ [Scan QR In Your Whatsapp From Here]
+> 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@Kaveesha2006/BLACK-QAEEN?v=1)
  
 > 🙂➾ [Fork This Repo By Clicking Here]
  
-> 🙂➾ [Then Deploy The Bot From Here](
+> 🙂➾ [Then Deploy The Bot From Here]((https://heroku.com/deplohttps://github.com/ravindusathsara12/Dark)-qvee
 
 
 

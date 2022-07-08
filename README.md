@@ -55,7 +55,7 @@ sappoted by ==malith
  
 > 🙂➾ [Fork This Repo By Clicking Here]
  
-> 🙂➾ [Then Deploy The Bot From Here]((https://heroku.com/deplohttps://github.com/ravindusathsara12/Dark)-qvee
+> 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deplohttps://github.com/ravindusathsara12/Dark)-qvee)
 
 
 
